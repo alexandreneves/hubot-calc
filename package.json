@@ -1,0 +1,14 @@
+{
+  "name": "hubot-calc",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "author": "aneves",
+  "keywords": [
+    "hubot bot",
+    "lmgtfy",
+    "google",
+    "search"
+  ],
+  "main": "index.js",
+  "license": "MIT"
+}
